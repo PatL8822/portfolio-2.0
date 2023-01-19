@@ -1,0 +1,137 @@
+:root {
+    --black: #000000;
+    --white: #ffffff;
+    --slightygreay: #4d4d4d;
+    --lightgreay: #808080;
+    --darkteal: #004d4d;
+    --medteal: #00cccc;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(/public/images/Stone_Wall_two.jpg);
+    background-size: cover;
+    background-repeat: none;
+    margin: 0;
+}
+
+.nav {
+    margin: 0 auto;
+    width: 800px;
+    background-color: var(--black);
+    color: var(--white);
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+
+}
+
+.nav a {
+    color: inherit;
+    text-decoration: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: .25rem;
+    font-size: 110%;
+}
+
+.nav li.active {
+    border-radius: 5px;
+    background-color: var(--slightygreay);
+}
+
+.nav li:hover {
+    border-radius: 5px;
+    background-color: var(--lightgreay);
+}
+
+.jumbotron {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.jumbotron {
+    background-image: linear-gradient(to bottom right, var(--darkteal), var(--medteal));
+}
+
+footer {
+    height: 4rem;
+    background-image: linear-gradient(to bottom right, var(--medteal), var(--darkteal));
+}
+
+.icon {
+    font-size: 45px;
+    text-decoration: none;
+}
+
+.icon a {
+    color: var(--black);
+}
+
+.profilePic {
+    display: inline-block;
+    vertical-align: bottom;
+    border-radius: 50%;
+    width: 100%;
+    max-width: 150px;
+    padding: 0;
+}
+
+.paragraph {
+    line-height: 25px;
+    margin: 0 auto;
+    text-align: center;
+    width: 60%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border-left: 5px solid var(--medteal);
+    padding: 10px;
+    background-color: var(--white);
+}
+
+.abouth1 {
+    font-style: italic;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width: 400px;
+    border-radius: 25px;
+    border: 3px solid var(--darkteal);
+    background-color: var(--white);
+}
+
+.card {
+    width: 18rem;
+}
+
+.FormContainer {
+    margin: 0 auto;
+    width: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    background-color: var(--white);
+}
+
+@media only screen and (max-width: 915px) {}
+
+@media only screen and (max-width: 840px) {}
+
+@media only screen and (max-width: 550px) {}
+
+@media only screen and (max-width: 419px) {}
+
+@media only screen and (max-width: 320px) {}
+
+@media only screen and (max-width: 280px) {}
