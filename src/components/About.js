@@ -6,8 +6,8 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons'
 export default function About() {
     return (
         <div>
-            <h1 className='text-center abouth1'>Little About Me</h1>
-            <p className='paragraph'>I currently work for Patriot Fire Protection Inc. This company specializes
+            <h1 className='d-flex justify-content-center text-center col-md-2 abouth1 mt-5'>Little About Me</h1>
+            <p className='paragraph col-md-6 '>I currently work for Patriot Fire Protection Inc. This company specializes
                 in building fire sprinkler systems
                 for residential and commercial buildings. My tasks consist of deciphering blueprints and listing
                 materials required for construction. Once the material is listed and the pipe is ready for fabrication,
@@ -30,7 +30,7 @@ export default function About() {
             </p>
             <footer className="fixed-bottom">
                 <div className='text-center icon'>
-                    <a href='https://github.com/PatL8822'><FontAwesomeIcon icon={faGithub} /></a>
+                    <a href='https://github.com/PatL8822' target="_blank"><FontAwesomeIcon icon={faGithub} /></a>
                 </div>
             </footer >
         </div>
