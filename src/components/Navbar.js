@@ -7,8 +7,9 @@ export default function Navbar() {
         <div>
             <div className="jumbotron">
                 <div className="container">
-                    <div className='text-center mb-2'>
+                    <div className='text-center mb-2 row d-flex align-items-baseline justify-content-center'>
                         <img className='profilePic' src='images/mypic.jpg' alt="My Image" />
+                        <h1 className='font-italic'>Pat Lubak</h1>
                     </div>
                     <nav className='justify-content-around nav navbar navbar-expand-sm navbar-light bg-dark'>
                         <ul className='nav navbar-nav'>

@@ -112,8 +112,9 @@ body {
     padding-left: 0;
 }
 
-.iframeDiv {
-    margin: 0 auto;
+.githubLink {
+    color: var(--white);
+    text-decoration: none;
 }
 
 .FormContainer {

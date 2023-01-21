@@ -9,7 +9,7 @@ export default function resume() {
         <div>
             <div className='d-flex justify-content-center'>
                 <iframe className='col-lg-6 p-0'
-                    src={pdf} width="100%" height="600" title="pdf document"></iframe>
+                    src={pdf} width="100%" height="580" title="pdf document"></iframe>
             </div>
             <footer className="fixed-bottom">
                 <div className='text-center icon'>
