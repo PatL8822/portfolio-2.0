@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.574a8d28.css",
+    "main.js": "/my-app/static/js/main.eedeaea7.js",
+    "static/media/Stone_Wall_two.jpg": "/my-app/static/media/Stone_Wall_two.918d42c6a48be0352c03.jpg",
+    "static/media/Pat's resume.pdf": "/my-app/static/media/Pat's resume.5f485d1631305aab58ff.pdf",
+    "index.html": "/my-app/index.html",
+    "main.574a8d28.css.map": "/my-app/static/css/main.574a8d28.css.map",
+    "main.eedeaea7.js.map": "/my-app/static/js/main.eedeaea7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.574a8d28.css",
+    "static/js/main.eedeaea7.js"
+  ]
+}
