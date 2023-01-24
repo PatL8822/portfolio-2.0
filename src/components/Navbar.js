@@ -13,10 +13,10 @@ export default function Navbar() {
                     </div>
                     <nav className='justify-content-around nav navbar navbar-expand-sm navbar-light bg-dark'>
                         <ul className='nav navbar-nav'>
-                            <CustomLink to="/">About</CustomLink>
-                            <CustomLink to="/portfolio">Portfolio</CustomLink>
-                            <CustomLink to="/contact">Contact</CustomLink>
-                            <CustomLink to="/resume">Resume</CustomLink>
+                            <CustomLink to="/portfolio-2.0/">About</CustomLink>
+                            <CustomLink to="/portfolio-2.0/portfolio">Portfolio</CustomLink>
+                            <CustomLink to="/portfolio-2.0/contact">Contact</CustomLink>
+                            <CustomLink to="/portfolio-2.0/resume">Resume</CustomLink>
                         </ul>
                     </nav>
                 </div>
