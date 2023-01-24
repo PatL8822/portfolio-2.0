@@ -41,6 +41,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ## Screen Shot
 
+![Screenshot (49)](https://user-images.githubusercontent.com/110148234/214234681-39d28f99-0bf4-43ac-95cd-d8e518a418e2.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/110148234/214234693-b7e962cd-4a7f-4e08-86eb-df5be1b8397b.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/110148234/214234702-4daa74a3-0be2-4035-af85-0b4fdd57e024.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/110148234/214234706-38952422-f97c-4b17-8b50-704bfa6c0a4d.png)
 
 
 ## Link to work
+
+https://patl8822.github.io/portfolio-2.0/
