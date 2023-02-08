@@ -40,10 +40,13 @@ export default function Portfolio() {
             </div>
             <div className="row d-flex justify-content-around col-lg-6 cardContainer2">
                 <div className='card col-md-3 h-50'>
-                    {/* <img className="card-img-top" src="..." alt="Card image cap" /> */}
+                    <img className="card-img-top" src="images/running-in-woods.jpg" alt="Card image cap" />
                     <div className="card-body cardTitleAndBtn">
-                        <h5 className="card-title">RESERVED FOR FUTURE PROJECTS</h5>
-                        <a href="#" className="btn btn-dark text-center">Go here</a>
+                        <h5 className="card-title">Fitness Tracker</h5>
+                        <h6 className='mb-3'>
+                            <a href='https://github.com/jesterb0206/fit-nuts' className='githubLink' target="_blank"><i>Github Repo</i></a>
+                        </h6>
+                        <a href="https://fit-nuts.herokuapp.com/" className="btn btn-dark text-center" target="_blank">Go here</a>
                     </div>
                 </div>
                 <div className='card col-md-3 h-50'>
